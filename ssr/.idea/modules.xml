@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssr.iml" filepath="$PROJECT_DIR$/ssr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sysService/sysService.iml" filepath="$PROJECT_DIR$/../sysService/sysService.iml" />
+    </modules>
+  </component>
+</project>
+
